@@ -1,0 +1,8 @@
+﻿Name                                   Id                            Version        Match
+------------------------------------------------------------------------------------------------------
+Tesseract                              Tesseract.Tesseract.Stable    2014.05.12     
+Tesseract-OCR - open source OCR engine UB-Mannheim.TesseractOCR      5.4.0.20240606 Moniker: tesseract
+Tesseract-OCR - open source OCR engine tesseract-ocr.tesseract       5.5.0.20241111 Moniker: tesseract
+gImageReader                           SandroMani.gImageReader       3.4.3          Tag: tesseract
+NormCap                                dynobo.NormCap                0.6.0          Tag: tesseract
+UWP ΓåÆ MM MIDI Adapter                  TesseractCat.UWP-MIDI-Adapter 0.1.0          

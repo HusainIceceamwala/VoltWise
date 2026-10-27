@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+opencv-python
+pillow
+pytesseract
+pdf2image
+langchain
+langchain-community
+langchain-ollama
+ollama
+reportlab
+SQLAlchemy
+pymysql
+python-dotenv

@@ -1,0 +1,4 @@
+﻿Name     Id                     Version   Match
+------------------------------------------------------
+Poppler  oschwartz10612.Poppler 25.07.0-0 
+pympress Cimbali.pympress       1.8.6     Tag: poppler

@@ -1,0 +1,36 @@
+﻿Name                  Id                         Version      Match
+-------------------------------------------------------------------------
+Ollama                Ollama.Ollama              0.32.5       
+Subconscious          Ancilla.Subconscious-Chat  0.1.9        Tag: ollama
+Dofek                 AsafSaar.Dofek             1.5.1        Tag: ollama
+Nekot                 BalanceBalls.Nekot         0.8.5        Tag: ollama
+AingDesk              Baota.AingDesk             1.2.0        Tag: ollama
+Dyad                  Dyad.Dyad                  1.8.0        Tag: ollama
+Hollama               FernandoMaclen.Hollama     0.35.1       Tag: ollama
+copilocal             Gjlumsden.Copilocal        0.1.2        Tag: ollama
+5ire                  Ironben.5ire               0.15.4       Tag: ollama
+Harbor                IvanCharapanau.Harbor      0.5.4        Tag: ollama
+Chatless              Kamjin.Chatless            0.6.4        Tag: ollama
+Khoj                  Khoj.Khoj                  1.33.1       Tag: ollama
+Witsy                 KochavaStudios.Witsy       3.5.2        Tag: ollama
+Kun Avatar            KunLabAI.KunAvatar         0.0.17       Tag: ollama
+LobeHub               LobeHub.LobeHub            2.2.12       Tag: ollama
+Locaible              Locaible.Locaible          0.2.13       Tag: ollama
+AI as Workspace       NitroRCr.AIasWorkspace     1.8.12       Tag: ollama
+Ollama (Portable)     Ollama.Ollama.Portable     0.20.2       Tag: ollama
+Dive                  OpenAgentPlatform.Dive     0.14.2       Tag: ollama
+GPTranslate           PhilBerndt.GPTranslate     2.0.0        Tag: ollama
+VOCIX                 RTF22.VOCIX                1.5.0        Tag: ollama
+Reor                  ReorProject.Reor           0.2.31       Tag: ollama
+ollamate              Reqwey.OllaMate            0.1.1        Tag: ollama
+CapyBro               RomanTykhonenko.CapyBro    2.0.2        Tag: ollama
+Tome                  Runebook.Tome              0.13.0       Tag: ollama
+doc-html-translate    SerZhyAle.DocHtmlTranslate 26.0729.0134 Tag: ollama
+BEST-AI               ToprakAhmetAydogmus.BestAI 3.2.2        Tag: ollama
+Gonzo                 control-theory.gonzo       0.4.3        Tag: ollama
+mtop                  eladser.mtop               1.3.0        Tag: ollama
+Cherry Studio         kangfenmao.CherryStudio    1.9.12       Tag: ollama
+Ollama Operator       nekomeowww.OllamaOperator  0.10.10      Tag: ollama
+AIChat                sigoden.AIChat             0.30.0       Tag: ollama
+Algernon              xyproto.algernon           1.17.11      Tag: ollama
+DimonSmart.OllamaChat DimonSmart.OllamaChat      1.0.1        
